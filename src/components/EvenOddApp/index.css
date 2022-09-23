@@ -1,0 +1,35 @@
+/* Write your CSS here */
+
+.bg-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  text-align: center;
+  padding: 20px;
+  padding-top: 45px;
+  border-radius: 10px;
+  min-height: 350px;
+  min-width: 30%;
+}
+
+.button {
+  padding: 7px;
+  border-radius: 5px;
+  width: 120px;
+  color: #334155;
+}
+
+.result {
+  color: #334155;
+  font-size: 20px;
+}
+
+.para {
+  font-size: 12px;
+}
